@@ -4,6 +4,7 @@
     "date": "2012-11-11",
     "categories": ["programming"]
 }
+
 -----
 
 Learning Scala
@@ -48,8 +49,8 @@ too painful for a Java programmer. It plays very well with the Java ecosystem
 and makes it possible to use all the existing third party libraries. This may
 seem like a detail, but I think that has played/will play a significant role in
 the adoption of the language. And finally something that has more to do with my
-personnal experience: due to the "inpute" nature of the language, the edges of
-the program, where all the "badness happens" (side-effects), seem to be
+personnal experience: due to the "inpure" nature of the language, the edges of
+the program, where all the "badness" happens (side-effects), seem to be
 implemented in a much more natural way than they would be in Haskell (but
 that's probably because I don't have enough experience with Monads yet).
 
@@ -59,9 +60,9 @@ Scala is often described as a "better Java". I don't question that, but the
 similarities between the two languages seem to be what makes Scala less
 appealing to me. While Haskell feels clean, elegant and robust, Scala fells a
 little more sloppy. I put that down to my lack of experience with mixing
-Object-Oriented and Functionaly, that I tend to use quite liberally. More
-discipline could probably reduce this feeling. I will have to check out some
-Scala codebases for some idiomatic Scala.
+Object-Oriented and Functional. I tend to use them quite liberally, and more
+discipline would probably reduce this feeling. I will have to check out Scala
+codebases for some idiomatic Scala.
 
 Overall, this was a very enjoyable experience that I will probably reconduct in
 the future. Scala is definitely an amazing tool that will come in handy if I
