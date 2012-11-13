@@ -10,7 +10,7 @@ Learning Scala
 ==============
 
 For the past seven weeks, I have been following a course on the Scala language
-on (coursera.org)[http://coursera.org], given by Martin Odersky, creator of the
+on [coursera.org](http://coursera.org), given by Martin Odersky, creator of the
 language and professor at EPFL (Ecole polytechnique fédérale de Lausanne).
 
 Scala is a general purpose language built on the JVM that mixes aspects of
@@ -19,7 +19,7 @@ the Java ecosystem and can thus take advantage of all the existing Java
 libraries.
 
 As I have been playing with Haskell for several months and using basic
-clojure to play (live-coded music)[http://overtone], I am not totally new to
+clojure to play [live coding music](http://overtone), I am not totally new to
 the concepts of functionnal programming. I also took a course on Prolog during
 my Bachelor, which first introduced me to pattern matching and heavy use of
 recursion. I had however never read or written any Scala code before.
@@ -73,4 +73,4 @@ An interesting thing is that the more I study powerful languages, the less I
 find myself enclined to use Java or C# if I don't have to. Python is still my
 language of choice, we'll see how that turns out. I hope we will soon see a
 questionning in the software industry regarding their choices. Next up,
-(Go)[http://golang.org] ?
+[Go](http://golang.org) ?
