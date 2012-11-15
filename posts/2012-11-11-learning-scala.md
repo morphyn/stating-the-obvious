@@ -7,8 +7,7 @@
 
 -----
 
-Learning Scala
-==============
+# Learning Scala
 
 For the past seven weeks, I have been following a course on the Scala language
 on [coursera.org](http://coursera.org), given by Martin Odersky, creator of the
