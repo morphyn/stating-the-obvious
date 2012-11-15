@@ -33,12 +33,12 @@ The course was composed of one chapter per week, each one covering a chunk of
 related concepts. This structure reminded me of the way courses were usually
 layed out during my studies. If I am not mistaken, this is actually the way
 this course is given at EPFL. Despite a steady pace, the lectures were easy to
-follow and the assignements were well designed to help grasping the concepts
+follow and the assignements well designed to help grasping the concepts
 presented by directly applying them. This may however have been more difficult
-for someone totally new to them. As for the schedule, the only thing I was not
+for someone totally new to functional programming. As for the schedule, the only thing I was not
 entirely pleased with was the way the deadlines for the assignements where set.
 The allotted time didn't seem to be consistent from week to week and it has not
-always been easy to deliver on time (in fact I missed the date twice, which
+always been easy to deliver on time (in fact I missed the due date twice, which
 resulted in a penalty on my grade).
 
 So what did I like about Scala ?
@@ -46,9 +46,9 @@ So what did I like about Scala ?
 Obviously, it provides very powerful features, while not making the transition
 too painful for a Java programmer. It plays very well with the Java ecosystem
 and makes it possible to use all the existing third party libraries. This may
-seem like a detail, but I think that has played/will play a significant role in
-the adoption of the language. And finally something that has more to do with my
-personnal experience: due to the "inpure" nature of the language, the edges of
+seem like a detail, but I think that has played (or will play) a significant role in
+the adoption of the language. A point more related to my personnal experience: due to 
+the "impure" nature of the language, the edges of
 the program, where all the "badness" happens (side-effects), seem to be
 implemented in a much more natural way than they would be in Haskell (but
 that's probably because I don't have enough experience with Monads yet).
@@ -57,16 +57,16 @@ And what did I not like about Scala ?
 
 Scala is often described as a "better Java". I don't question that, but the
 similarities between the two languages seem to be what makes Scala less
-appealing to me. While Haskell feels clean, elegant and robust, Scala fells a
-little more sloppy. I put that down to my lack of experience with mixing
+appealing to me. While Haskell feels clean, elegant and robust, Scala feels a
+little bit more sloppy. I put that down to my lack of experience with mixing
 Object-Oriented and Functional. I tend to use them quite liberally, and more
-discipline would probably reduce this feeling. I will have to check out Scala
+discipline would probably reduce this feeling. I will have to check out existing
 codebases for some idiomatic Scala.
 
 Overall, this was a very enjoyable experience that I will probably reconduct in
 the future. Scala is definitely an amazing tool that will come in handy if I
 ever have the constraint of using the JVM. However, for the moment I'm going
-back to learning Haskell, and enventually build something tangible and usefull
+back to learning Haskell, and enventually build something concrete and usefull
 with it.
 
 An interesting thing is that the more I study powerful languages, the less I
