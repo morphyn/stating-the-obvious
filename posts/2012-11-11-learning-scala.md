@@ -72,5 +72,5 @@ with it.
 An interesting thing is that the more I study powerful languages, the less I
 find myself enclined to use Java or C# if I don't have to. Python is still my
 language of choice, we'll see how that turns out. I hope we will soon see a
-questionning in the software industry regarding their choices. Next up,
+questionning in the software industry regarding their tools selection. Next up,
 [Go](http://golang.org) ?
